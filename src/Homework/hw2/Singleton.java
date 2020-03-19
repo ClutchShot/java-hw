@@ -1,4 +1,4 @@
-package hw2;
+package Homework.hw2;
 
 public class Singleton {
     private Singleton(){
